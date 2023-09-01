@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vr0nti
 - 🌱 I’m currently pursuing my 1st year in college ...
 - 💞️ I’m looking for mentorship in the tech field...
-- 📫 Rach me on twitter: @vr0nti
+- 📫 Rach me on linkedIn: @shaiksaalam
 
 <!---
 vr0nti/vr0nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
