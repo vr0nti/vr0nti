@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @vr0nti
-- 🌱 I’m currently pursuing my 1st year in college ...
-- 💞️ I’m looking for mentorship in the tech field...
-- 📫 Reach me on linkedIn: @shaiksaalam
+# Hello, I'm [Saalam]
 
-<!---
-vr0nti/vr0nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Aspiring Computer Science Student | 🌐 Cybersecurity Enthusiast | 🚀 Driven by Protection, Powered by Knowledge
+
+Welcome to my GitHub! I'm passionate about all things cybersecurity and ethical hacking. My journey in computer science is not just a career but a mission to secure the digital world.
+
+## 📚 What You'll Find Here
+
+- 🛠️ Projects related to cybersecurity, pentesting, and ethical hacking.
+- 📖 Resources and write-ups on security topics I'm exploring.
+- 🌱 My ongoing learning journey in the world of technology and security.
+
+## 💡 Let's Connect
+
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vronti/)
+
+Feel free to explore my repositories, reach out, and let's collaborate in making the digital realm safer and more secure. Together, we can protect the future of technology!
+
