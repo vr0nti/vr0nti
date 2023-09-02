@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about all things cybersecurity and ethical 
 
 ## 💡 Let's Connect
 
-- 🔗 LinkedIn: [shaiksaalam](https://www.linkedin.com/in/vronti/)
+- 🔗 LinkedIn: [@Shaik Saalam](https://www.linkedin.com/in/vronti/)
 
 Feel free to explore my repositories, reach out, and let's collaborate in making the digital realm safer and more secure. Together, we can protect the future of technology!
 
