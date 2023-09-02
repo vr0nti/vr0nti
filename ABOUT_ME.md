@@ -1,4 +1,4 @@
-# Hello, I'm [Saalam]
+# Hello, I'm Saalam
 
 👨‍💻 Aspiring Computer Science Student | 🌐 Cybersecurity Enthusiast | 🚀 Driven by Protection, Powered by Knowledge
 
